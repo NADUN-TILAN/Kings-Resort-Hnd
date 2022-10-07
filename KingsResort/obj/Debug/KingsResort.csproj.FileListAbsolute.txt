@@ -1,0 +1,79 @@
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\KingsResort.exe.config
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\KingsResort.exe
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\KingsResort.pdb
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.csprojResolveAssemblyReference.cache
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.Form1.resources
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.Properties.Resources.resources
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.csproj.GenerateResource.Cache
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.exe
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.pdb
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\Guna.UI2.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Customer.resources
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Payment.resources
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Reservation.resources
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Room.resources
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\MySql.Data.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\Google.Protobuf.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\ZstdNet.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\System.Buffers.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\bin\Debug\MySql.Data.xml
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.csproj.KingsResort.exe.config
+C:\Users\It Server\Desktop\Tasks\pending\Mohamed\AP\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_PaymentType.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\KingsResort.exe.config
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.exe
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.pdb
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\KingsResort.exe
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\KingsResort.pdb
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\Guna.UI2.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\MySql.Data.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\Google.Protobuf.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\ZstdNet.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\System.Buffers.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\bin\Debug\MySql.Data.xml
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.csprojResolveAssemblyReference.cache
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.csproj.KingsResort.exe.config
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Customer.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Payment.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_PaymentType.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Reservation.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Room.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.Form1.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.Properties.Resources.resources
+C:\Users\It Server\Desktop\Tasks\completed\Mohamed\DBMS\project\KingsResort\obj\Debug\KingsResort.csproj.GenerateResource.Cache
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\KingsResort.exe.config
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\KingsResort.exe
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\KingsResort.pdb
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\Google.Protobuf.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\ZstdNet.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\System.Buffers.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\bin\Debug\MySql.Data.xml
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.csproj.AssemblyReference.cache
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.csproj.SuggestedBindingRedirects.cache
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.exe.config
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Customer.resources
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Payment.resources
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_PaymentType.resources
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Reservation.resources
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.All_User_Control.UC_Room.resources
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.Form1.resources
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.Properties.Resources.resources
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.csproj.GenerateResource.cache
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.csproj.CoreCompileInputs.cache
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.csproj.CopyComplete
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.exe
+C:\Users\hello\Dropbox\My PC (My-Laptop)\Desktop\KingsResort\obj\Debug\KingsResort.pdb
